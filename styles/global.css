@@ -39,6 +39,10 @@ body {
   caret-color: var(--fg-color);
 }
 
+.github-corner {
+          display: none;
+        }
+
 ::-webkit-scrollbar
 {
   width: 5px;
